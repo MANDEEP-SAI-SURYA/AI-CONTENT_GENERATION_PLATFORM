@@ -1,3 +1,4 @@
 .env
 contentgenerator_env
-_pycache_
+__pycache__/
+*.pyc
