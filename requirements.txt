@@ -1,0 +1,15 @@
+transformers
+diffusers
+groq
+requests
+bs4
+python-dotenv
+pymongo
+schedule
+Pillow
+flask
+tavily
+asyncio
+langgraph
+openai
+pillow
